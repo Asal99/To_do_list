@@ -1,0 +1,3 @@
+com\example\todolist\ToDoListApplication.class
+com\example\todolist\model\Task.class
+com\example\todolist\Controller\TaskController.class
